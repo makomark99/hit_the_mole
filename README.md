@@ -1,2 +1,2 @@
-# hit_the_mole
+# whack_a_mole
 Vanilla JavaScript
