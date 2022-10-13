@@ -1,0 +1,55 @@
+.container{
+    
+    border: 5px solid black;
+    margin: auto;
+    width: 600px;
+    height: 600px;
+    margin-top: 10px;
+    background-color: #5A4029;
+}
+
+.datas{
+    margin: auto;
+    width: 600px;
+    height: 30px;
+    display: flex;
+
+}
+.d{
+    width: 200px;
+    height: 100%;
+    
+}
+.rows{
+    display: flex;
+    width: 100%;
+    height: calc(100%/3);
+}
+.divs{
+    height: 100%;
+    width: calc(100%/3);
+    background-image: url(föld.png);
+    background-repeat: repeat;
+}
+.mole{
+    background-image: url(vakond.jpg);
+    width: 200px;
+    height: 200px;
+    border: none;
+}
+.heading {
+    font-size: 2em;
+
+    text-align: center;
+}
+.score {
+    
+     
+      text-align: center;
+  }
+  .button{
+
+      border-radius: 6px;
+      height: 1.5rem;
+      width: 6rem;
+  }
